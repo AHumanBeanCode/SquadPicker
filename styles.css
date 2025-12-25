@@ -1,15 +1,7 @@
 body {
   font-family: Arial, sans-serif;
   text-align: center;
-}
-
-h1{
-  font-size: larger;
-}
-
-h2{
-    text-align: center;
-    font-size: large;
+  background-color: salmon
 }
 
 .tile-grid {
